@@ -6,6 +6,8 @@ Shakespeare insult generator: https://gist.github.com/zocom-christoffer-wallenbe
 
 Object bootcamp: https://gist.github.com/zocom-christoffer-wallenberg/78fc778b6c9f0282b6cfc95585b56e56
 
+**Code review**
+
 Kortleken: https://gist.github.com/zocom-christoffer-wallenberg/2cf722665403d50ac80d9a6eb64bd121
 
 ## Artiklar
